@@ -1,0 +1,4 @@
+Model,Type,RMSFE
+ARIMA,Univariate (Linear),0.5442
+VAR,Multivariate (Linear),0.5462
+Random Forest,ML (Non-Linear),0.6503
