@@ -1,0 +1,4 @@
+Model,RMSFE,Type
+ARIMA (Benchmark),0.5442,Linear / Univariate
+VAR (Multivariate),0.5462,Linear / Multivariate
+Random Forest (ML),0.6503,Non-Linear / ML
